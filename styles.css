@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+
+#{
+	width="100vw";
+	background:white;
+	border: 2px solid red;
+}
